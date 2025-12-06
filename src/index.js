@@ -1,12 +1,23 @@
 const getWeather = async (location) => {
-  const response = await fetch(
-    `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${location}?unitGroup=metric&contentType=json&key=KFUQMJVQTXDEU2L9D9ZZT9D9V`,
-  );
-  if (!response.ok) {
-    console.log("error: " + response.status);
+  try {
+    const response = await fetch(
+      `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${location}?unitGroup=metric&contentType=json&key=KFUQMJVQTXDEU2L9D9ZZT9D9V`,
+    );
+    if (!response.ok) {
+      throw new Error("error: " + response.status);
+    }
+    const json = await response.json();
+    console.log(json);
+  } catch (error) {
+    console.log("fail:" + error);
   }
-  const json = await response.json();
-  console.log(json);
 };
 
-getWeather("changsha")
+const btn = document.querySelector("button");
+const locationInput = document.querySelector("#location");
+
+btn.addEventListener("click", (e) => {
+  e.preventDefault();
+  const locationValue = locationInput.value;
+  getWeather(locationValue);
+});
