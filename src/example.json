@@ -1,0 +1,3880 @@
+{
+    "queryCost": 1,
+    "latitude": 28.228,
+    "longitude": 112.939,
+    "resolvedAddress": "changsha",
+    "address": "changsha",
+    "timezone": "Asia/Shanghai",
+    "tzoffset": 8,
+    "description": "Similar temperatures continuing with a chance of rain Friday & Saturday.",
+    "days": [
+        {
+            "datetime": "2025-12-06",
+            "tempmax": 17,
+            "tempmin": 4,
+            "temp": 10.8,
+            "feelslike": 10.5,
+            "uvindex": 6,
+            "sunriseEpoch": 1764975989,
+            "sunsetEpoch": 1765013521,
+            "conditions": "Clear",
+            "description": "Clear conditions throughout the day.",
+            "icon": "clear-day",
+            "source": "comb",
+            "pm2p5": 119,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 7,
+                    "feelslike": 7,
+                    "uvindex": 0,
+                    "pm2p5": 148,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 7,
+                    "feelslike": 7,
+                    "uvindex": 0,
+                    "pm2p5": 149,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 6,
+                    "feelslike": 6,
+                    "uvindex": 0,
+                    "pm2p5": 147,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 6,
+                    "feelslike": 6,
+                    "uvindex": 0,
+                    "pm2p5": 146,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 6,
+                    "feelslike": 6,
+                    "uvindex": 0,
+                    "pm2p5": 141,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 5,
+                    "feelslike": 5,
+                    "uvindex": 0,
+                    "pm2p5": 131,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 5,
+                    "feelslike": 5,
+                    "uvindex": 0,
+                    "pm2p5": 123,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 4,
+                    "feelslike": 2.1,
+                    "uvindex": 0,
+                    "pm2p5": 124,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 5,
+                    "feelslike": 3.3,
+                    "uvindex": 0,
+                    "pm2p5": 128,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 7,
+                    "feelslike": 5.6,
+                    "uvindex": 2,
+                    "pm2p5": 124,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 10,
+                    "feelslike": 8.5,
+                    "uvindex": 4,
+                    "pm2p5": 107,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 12,
+                    "feelslike": 12,
+                    "uvindex": 5,
+                    "pm2p5": 72,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 14,
+                    "feelslike": 14,
+                    "uvindex": 6,
+                    "pm2p5": 51,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 6,
+                    "pm2p5": 51,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 6,
+                    "pm2p5": 52,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 17,
+                    "feelslike": 17,
+                    "uvindex": 5,
+                    "pm2p5": 54,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 17,
+                    "feelslike": 17,
+                    "uvindex": 3,
+                    "pm2p5": 57,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 1,
+                    "pm2p5": 67,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": 100,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 13,
+                    "feelslike": 13,
+                    "uvindex": 0,
+                    "pm2p5": 126,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 13,
+                    "feelslike": 13,
+                    "uvindex": 0,
+                    "pm2p5": 153,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 14.5,
+                    "feelslike": 14.5,
+                    "uvindex": 0,
+                    "pm2p5": 182,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "obs"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 14.1,
+                    "feelslike": 14.1,
+                    "uvindex": 0,
+                    "pm2p5": 203,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 13.7,
+                    "feelslike": 13.7,
+                    "uvindex": 0,
+                    "pm2p5": 208,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-07",
+            "tempmax": 17.4,
+            "tempmin": 11.3,
+            "temp": 14,
+            "feelslike": 14,
+            "uvindex": 4,
+            "sunriseEpoch": 1765062432,
+            "sunsetEpoch": 1765099929,
+            "conditions": "Partially cloudy",
+            "description": "Partly cloudy throughout the day.",
+            "icon": "partly-cloudy-day",
+            "source": "fcst",
+            "pm2p5": 109,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 0,
+                    "pm2p5": 198,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 0,
+                    "pm2p5": 190,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 12.5,
+                    "feelslike": 12.5,
+                    "uvindex": 0,
+                    "pm2p5": 176,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": 156,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 11.9,
+                    "feelslike": 11.9,
+                    "uvindex": 0,
+                    "pm2p5": 141,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 11.7,
+                    "feelslike": 11.7,
+                    "uvindex": 0,
+                    "pm2p5": 133,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 11.5,
+                    "feelslike": 11.5,
+                    "uvindex": 0,
+                    "pm2p5": 132,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 11.3,
+                    "feelslike": 11.3,
+                    "uvindex": 0,
+                    "pm2p5": 142,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": 150,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 13.8,
+                    "feelslike": 13.8,
+                    "uvindex": 2,
+                    "pm2p5": 135,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 14.8,
+                    "feelslike": 14.8,
+                    "uvindex": 2,
+                    "pm2p5": 111,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 15.9,
+                    "feelslike": 15.9,
+                    "uvindex": 3,
+                    "pm2p5": 86,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 15.3,
+                    "feelslike": 15.3,
+                    "uvindex": 1,
+                    "pm2p5": 71,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 17.1,
+                    "feelslike": 17.1,
+                    "uvindex": 4,
+                    "pm2p5": 64,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 17.4,
+                    "feelslike": 17.4,
+                    "uvindex": 2,
+                    "pm2p5": 62,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 16.9,
+                    "feelslike": 16.9,
+                    "uvindex": 1,
+                    "pm2p5": 59,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 16.4,
+                    "feelslike": 16.4,
+                    "uvindex": 0,
+                    "pm2p5": 57,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 15.8,
+                    "feelslike": 15.8,
+                    "uvindex": 0,
+                    "pm2p5": 62,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 15.2,
+                    "feelslike": 15.2,
+                    "uvindex": 0,
+                    "pm2p5": 73,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 14.8,
+                    "feelslike": 14.8,
+                    "uvindex": 0,
+                    "pm2p5": 79,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 14,
+                    "feelslike": 14,
+                    "uvindex": 0,
+                    "pm2p5": 82,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 13.6,
+                    "feelslike": 13.6,
+                    "uvindex": 0,
+                    "pm2p5": 84,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 0,
+                    "pm2p5": 84,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 12.7,
+                    "feelslike": 12.7,
+                    "uvindex": 0,
+                    "pm2p5": 81,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-08",
+            "tempmax": 19,
+            "tempmin": 9.2,
+            "temp": 13.9,
+            "feelslike": 13.7,
+            "uvindex": 6,
+            "sunriseEpoch": 1765148875,
+            "sunsetEpoch": 1765186339,
+            "conditions": "Clear",
+            "description": "Clear conditions throughout the day.",
+            "icon": "clear-day",
+            "source": "fcst",
+            "pm2p5": 75,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": 76,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 11.7,
+                    "feelslike": 11.7,
+                    "uvindex": 0,
+                    "pm2p5": 73,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 11.3,
+                    "feelslike": 11.3,
+                    "uvindex": 0,
+                    "pm2p5": 71,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 10.9,
+                    "feelslike": 10.9,
+                    "uvindex": 0,
+                    "pm2p5": 70,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 10.5,
+                    "feelslike": 10.5,
+                    "uvindex": 0,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 10.1,
+                    "feelslike": 10.1,
+                    "uvindex": 0,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 9.6,
+                    "feelslike": 8,
+                    "uvindex": 0,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 9.2,
+                    "feelslike": 7.3,
+                    "uvindex": 0,
+                    "pm2p5": 72,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 9.6,
+                    "feelslike": 7.9,
+                    "uvindex": 0,
+                    "pm2p5": 76,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 11.5,
+                    "feelslike": 11.5,
+                    "uvindex": 2,
+                    "pm2p5": 73,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 13.5,
+                    "feelslike": 13.5,
+                    "uvindex": 4,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 15.3,
+                    "feelslike": 15.3,
+                    "uvindex": 5,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 16.8,
+                    "feelslike": 16.8,
+                    "uvindex": 6,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 18,
+                    "feelslike": 18,
+                    "uvindex": 6,
+                    "pm2p5": 68,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 18.7,
+                    "feelslike": 18.7,
+                    "uvindex": 6,
+                    "pm2p5": 66,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 19,
+                    "feelslike": 19,
+                    "uvindex": 5,
+                    "pm2p5": 65,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 19,
+                    "feelslike": 19,
+                    "uvindex": 3,
+                    "pm2p5": 65,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 18.1,
+                    "feelslike": 18.1,
+                    "uvindex": 1,
+                    "pm2p5": 73,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 16.4,
+                    "feelslike": 16.4,
+                    "uvindex": 0,
+                    "pm2p5": 84,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 15.5,
+                    "feelslike": 15.5,
+                    "uvindex": 0,
+                    "pm2p5": 89,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 14.9,
+                    "feelslike": 14.9,
+                    "uvindex": 0,
+                    "pm2p5": 92,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 0,
+                    "pm2p5": 94,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 13.7,
+                    "feelslike": 13.7,
+                    "uvindex": 0,
+                    "pm2p5": 96,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 0,
+                    "pm2p5": 100,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-09",
+            "tempmax": 18.9,
+            "tempmin": 9.8,
+            "temp": 14.3,
+            "feelslike": 14.3,
+            "uvindex": 6,
+            "sunriseEpoch": 1765235317,
+            "sunsetEpoch": 1765272751,
+            "conditions": "Clear",
+            "description": "Clear conditions throughout the day.",
+            "icon": "clear-day",
+            "source": "fcst",
+            "pm2p5": 94,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 12.7,
+                    "feelslike": 12.7,
+                    "uvindex": 0,
+                    "pm2p5": 100,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": 98,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 11.7,
+                    "feelslike": 11.7,
+                    "uvindex": 0,
+                    "pm2p5": 94,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 11.2,
+                    "feelslike": 11.2,
+                    "uvindex": 0,
+                    "pm2p5": 89,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 10.8,
+                    "feelslike": 10.8,
+                    "uvindex": 0,
+                    "pm2p5": 86,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 10.5,
+                    "feelslike": 10.5,
+                    "uvindex": 0,
+                    "pm2p5": 84,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 10.2,
+                    "feelslike": 10.2,
+                    "uvindex": 0,
+                    "pm2p5": 85,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 9.8,
+                    "feelslike": 9,
+                    "uvindex": 0,
+                    "pm2p5": 92,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 10.2,
+                    "feelslike": 10.2,
+                    "uvindex": 0,
+                    "pm2p5": 102,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 11.7,
+                    "feelslike": 11.7,
+                    "uvindex": 2,
+                    "pm2p5": 99,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 13.5,
+                    "feelslike": 13.5,
+                    "uvindex": 4,
+                    "pm2p5": 94,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 15.2,
+                    "feelslike": 15.2,
+                    "uvindex": 5,
+                    "pm2p5": 87,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 16.8,
+                    "feelslike": 16.8,
+                    "uvindex": 6,
+                    "pm2p5": 74,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 17.9,
+                    "feelslike": 17.9,
+                    "uvindex": 6,
+                    "pm2p5": 67,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 18.6,
+                    "feelslike": 18.6,
+                    "uvindex": 6,
+                    "pm2p5": 64,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 18.9,
+                    "feelslike": 18.9,
+                    "uvindex": 5,
+                    "pm2p5": 62,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 18.8,
+                    "feelslike": 18.8,
+                    "uvindex": 3,
+                    "pm2p5": 62,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 18.2,
+                    "feelslike": 18.2,
+                    "uvindex": 1,
+                    "pm2p5": 81,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 17.2,
+                    "feelslike": 17.2,
+                    "uvindex": 0,
+                    "pm2p5": 115,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 16.7,
+                    "feelslike": 16.7,
+                    "uvindex": 0,
+                    "pm2p5": 128,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 16.3,
+                    "feelslike": 16.3,
+                    "uvindex": 0,
+                    "pm2p5": 128,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 15.6,
+                    "feelslike": 15.6,
+                    "uvindex": 0,
+                    "pm2p5": 125,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": 122,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 14.6,
+                    "feelslike": 14.6,
+                    "uvindex": 0,
+                    "pm2p5": 119,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-10",
+            "tempmax": 21.1,
+            "tempmin": 12,
+            "temp": 16.4,
+            "feelslike": 16.4,
+            "uvindex": 6,
+            "sunriseEpoch": 1765321759,
+            "sunsetEpoch": 1765359164,
+            "conditions": "Clear",
+            "description": "Clear conditions throughout the day.",
+            "icon": "clear-day",
+            "source": "fcst",
+            "pm2p5": 135,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 0,
+                    "pm2p5": 113,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 13.8,
+                    "feelslike": 13.8,
+                    "uvindex": 0,
+                    "pm2p5": 110,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 13.5,
+                    "feelslike": 13.5,
+                    "uvindex": 0,
+                    "pm2p5": 109,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 13.1,
+                    "feelslike": 13.1,
+                    "uvindex": 0,
+                    "pm2p5": 108,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 12.8,
+                    "feelslike": 12.8,
+                    "uvindex": 0,
+                    "pm2p5": 106,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 12.4,
+                    "feelslike": 12.4,
+                    "uvindex": 0,
+                    "pm2p5": 106,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": 110,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 12,
+                    "feelslike": 12,
+                    "uvindex": 0,
+                    "pm2p5": 127,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 12.6,
+                    "feelslike": 12.6,
+                    "uvindex": 0,
+                    "pm2p5": 151,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 2,
+                    "pm2p5": 142,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 16.1,
+                    "feelslike": 16.1,
+                    "uvindex": 4,
+                    "pm2p5": 119,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 17.6,
+                    "feelslike": 17.6,
+                    "uvindex": 5,
+                    "pm2p5": 103,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 18.9,
+                    "feelslike": 18.9,
+                    "uvindex": 6,
+                    "pm2p5": 89,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 20,
+                    "feelslike": 20,
+                    "uvindex": 6,
+                    "pm2p5": 80,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 20.7,
+                    "feelslike": 20.7,
+                    "uvindex": 6,
+                    "pm2p5": 76,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 21.1,
+                    "feelslike": 21.1,
+                    "uvindex": 5,
+                    "pm2p5": 75,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 21.1,
+                    "feelslike": 21.1,
+                    "uvindex": 3,
+                    "pm2p5": 77,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 20.5,
+                    "feelslike": 20.5,
+                    "uvindex": 1,
+                    "pm2p5": 113,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 19.1,
+                    "feelslike": 19.1,
+                    "uvindex": 0,
+                    "pm2p5": 161,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 18.5,
+                    "feelslike": 18.5,
+                    "uvindex": 0,
+                    "pm2p5": 196,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 18,
+                    "feelslike": 18,
+                    "uvindex": 0,
+                    "pm2p5": 224,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 17.4,
+                    "feelslike": 17.4,
+                    "uvindex": 0,
+                    "pm2p5": 242,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 16.8,
+                    "feelslike": 16.8,
+                    "uvindex": 0,
+                    "pm2p5": 250,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 16.2,
+                    "feelslike": 16.2,
+                    "uvindex": 0,
+                    "pm2p5": 244,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-11",
+            "tempmax": 22.5,
+            "tempmin": 14.3,
+            "temp": 18.1,
+            "feelslike": 18.1,
+            "uvindex": 5,
+            "sunriseEpoch": 1765408200,
+            "sunsetEpoch": 1765445579,
+            "conditions": "Partially cloudy",
+            "description": "Partly cloudy throughout the day.",
+            "icon": "partly-cloudy-day",
+            "source": "fcst",
+            "pm2p5": 218,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 15.8,
+                    "feelslike": 15.8,
+                    "uvindex": 0,
+                    "pm2p5": 231,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 15.8,
+                    "feelslike": 15.8,
+                    "uvindex": 0,
+                    "pm2p5": 222,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 0,
+                    "pm2p5": 217,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 15.9,
+                    "feelslike": 15.9,
+                    "uvindex": 0,
+                    "pm2p5": 215,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 15.4,
+                    "feelslike": 15.4,
+                    "uvindex": 0,
+                    "pm2p5": 213,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 15.2,
+                    "feelslike": 15.2,
+                    "uvindex": 0,
+                    "pm2p5": 210,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 14.9,
+                    "feelslike": 14.9,
+                    "uvindex": 0,
+                    "pm2p5": 209,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 0,
+                    "pm2p5": 223,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 14.6,
+                    "feelslike": 14.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 2,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 17.6,
+                    "feelslike": 17.6,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 19.4,
+                    "feelslike": 19.4,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 20.8,
+                    "feelslike": 20.8,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 21.8,
+                    "feelslike": 21.8,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 22.5,
+                    "feelslike": 22.5,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 22.3,
+                    "feelslike": 22.3,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 22.1,
+                    "feelslike": 22.1,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 22,
+                    "feelslike": 22,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 20.8,
+                    "feelslike": 20.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 19.7,
+                    "feelslike": 19.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 18.6,
+                    "feelslike": 18.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 18.1,
+                    "feelslike": 18.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 17.6,
+                    "feelslike": 17.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 17.1,
+                    "feelslike": 17.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-12",
+            "tempmax": 16.5,
+            "tempmin": 11,
+            "temp": 13.9,
+            "feelslike": 13.9,
+            "uvindex": 1,
+            "sunriseEpoch": 1765494639,
+            "sunsetEpoch": 1765531995,
+            "conditions": "Rain, Partially cloudy",
+            "description": "Partly cloudy throughout the day with late afternoon rain.",
+            "icon": "rain",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 16.5,
+                    "feelslike": 16.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 15.5,
+                    "feelslike": 15.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 14.6,
+                    "feelslike": 14.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 14.1,
+                    "feelslike": 14.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 14.1,
+                    "feelslike": 14.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 14.1,
+                    "feelslike": 14.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 14.4,
+                    "feelslike": 14.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 14.7,
+                    "feelslike": 14.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 14.4,
+                    "feelslike": 14.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 13.8,
+                    "feelslike": 13.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 13.4,
+                    "feelslike": 13.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 13.4,
+                    "feelslike": 13.4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 13.6,
+                    "feelslike": 13.6,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 13,
+                    "feelslike": 13,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 12.8,
+                    "feelslike": 12.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 11.6,
+                    "feelslike": 11.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 11,
+                    "feelslike": 11,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-13",
+            "tempmax": 9.7,
+            "tempmin": 5.8,
+            "temp": 7.6,
+            "feelslike": 4.5,
+            "uvindex": 1,
+            "sunriseEpoch": 1765581079,
+            "sunsetEpoch": 1765618412,
+            "conditions": "Rain, Partially cloudy",
+            "description": "Partly cloudy throughout the day with rain clearing later.",
+            "icon": "rain",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 9.7,
+                    "feelslike": 7.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 8.5,
+                    "feelslike": 5.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 7.3,
+                    "feelslike": 3.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 7,
+                    "feelslike": 3.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 6.7,
+                    "feelslike": 3.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 6.5,
+                    "feelslike": 2.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 6.2,
+                    "feelslike": 2.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 6,
+                    "feelslike": 2.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 5.8,
+                    "feelslike": 1.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 6.3,
+                    "feelslike": 2.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 6.8,
+                    "feelslike": 3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 7.4,
+                    "feelslike": 3.7,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 7.6,
+                    "feelslike": 4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 7.8,
+                    "feelslike": 4.3,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 8,
+                    "feelslike": 4.6,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 8.5,
+                    "feelslike": 5.4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 9,
+                    "feelslike": 6.2,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 9.5,
+                    "feelslike": 7,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 9,
+                    "feelslike": 6.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 8.5,
+                    "feelslike": 6.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 8,
+                    "feelslike": 5.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 7.5,
+                    "feelslike": 5.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 7.1,
+                    "feelslike": 5.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 6.7,
+                    "feelslike": 5.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-14",
+            "tempmax": 14.3,
+            "tempmin": 4.5,
+            "temp": 8.9,
+            "feelslike": 8,
+            "uvindex": 6,
+            "sunriseEpoch": 1765667517,
+            "sunsetEpoch": 1765704832,
+            "conditions": "Clear",
+            "description": "Clear conditions throughout the day.",
+            "icon": "clear-day",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 6.3,
+                    "feelslike": 4.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 5.9,
+                    "feelslike": 4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 5.6,
+                    "feelslike": 3.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 5.2,
+                    "feelslike": 2.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 4.9,
+                    "feelslike": 2.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 4.6,
+                    "feelslike": 1.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 4.5,
+                    "feelslike": 2.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 4.5,
+                    "feelslike": 2.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 4.5,
+                    "feelslike": 4.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 6.3,
+                    "feelslike": 5.4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 8.2,
+                    "feelslike": 7.3,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 10.1,
+                    "feelslike": 10.1,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 11.4,
+                    "feelslike": 11.4,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 6,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 14.1,
+                    "feelslike": 14.1,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 13.9,
+                    "feelslike": 13.9,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 13.8,
+                    "feelslike": 13.8,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 12.7,
+                    "feelslike": 12.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 11.6,
+                    "feelslike": 11.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 10.6,
+                    "feelslike": 10.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 10,
+                    "feelslike": 8.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 9.4,
+                    "feelslike": 8.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 8.9,
+                    "feelslike": 8.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-15",
+            "tempmax": 16.1,
+            "tempmin": 6.8,
+            "temp": 11.3,
+            "feelslike": 11.2,
+            "uvindex": 6,
+            "sunriseEpoch": 1765753954,
+            "sunsetEpoch": 1765791252,
+            "conditions": "Partially cloudy",
+            "description": "Becoming cloudy in the afternoon.",
+            "icon": "partly-cloudy-day",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 8.5,
+                    "feelslike": 8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 8.1,
+                    "feelslike": 8.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 7.8,
+                    "feelslike": 7.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 7.4,
+                    "feelslike": 7.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 7.1,
+                    "feelslike": 7.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 6.8,
+                    "feelslike": 6.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 6.8,
+                    "feelslike": 6.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 6.8,
+                    "feelslike": 6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 6.8,
+                    "feelslike": 5.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 8.7,
+                    "feelslike": 7.8,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 10.6,
+                    "feelslike": 10.6,
+                    "uvindex": 2,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 12.6,
+                    "feelslike": 12.6,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 13.7,
+                    "feelslike": 13.7,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 14.8,
+                    "feelslike": 14.8,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 6,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 16,
+                    "feelslike": 16,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 16.1,
+                    "feelslike": 16.1,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 13.9,
+                    "feelslike": 13.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 13,
+                    "feelslike": 13,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 13.1,
+                    "feelslike": 13.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-16",
+            "tempmax": 15,
+            "tempmin": 12.1,
+            "temp": 13.2,
+            "feelslike": 13.2,
+            "uvindex": 2,
+            "sunriseEpoch": 1765840391,
+            "sunsetEpoch": 1765877674,
+            "conditions": "Overcast",
+            "description": "Cloudy skies throughout the day.",
+            "icon": "cloudy",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 12.8,
+                    "feelslike": 12.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 12.7,
+                    "feelslike": 12.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 12.5,
+                    "feelslike": 12.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 12.3,
+                    "feelslike": 12.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 12.3,
+                    "feelslike": 12.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 12.6,
+                    "feelslike": 12.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 13.7,
+                    "feelslike": 13.7,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 14.4,
+                    "feelslike": 14.4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 14.7,
+                    "feelslike": 14.7,
+                    "uvindex": 2,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 2,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 14.6,
+                    "feelslike": 14.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 13.8,
+                    "feelslike": 13.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 13.6,
+                    "feelslike": 13.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 13.5,
+                    "feelslike": 13.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 13.4,
+                    "feelslike": 13.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-17",
+            "tempmax": 15.6,
+            "tempmin": 12.1,
+            "temp": 13.7,
+            "feelslike": 13.7,
+            "uvindex": 1,
+            "sunriseEpoch": 1765926826,
+            "sunsetEpoch": 1765964098,
+            "conditions": "Partially cloudy",
+            "description": "Partly cloudy throughout the day.",
+            "icon": "partly-cloudy-day",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 13.4,
+                    "feelslike": 13.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 13.5,
+                    "feelslike": 13.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 13.6,
+                    "feelslike": 13.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 13.4,
+                    "feelslike": 13.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 13.4,
+                    "feelslike": 13.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 13.3,
+                    "feelslike": 13.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 13.1,
+                    "feelslike": 13.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 12.9,
+                    "feelslike": 12.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 12.7,
+                    "feelslike": 12.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 13.1,
+                    "feelslike": 13.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 13.5,
+                    "feelslike": 13.5,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 13.9,
+                    "feelslike": 13.9,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 14.4,
+                    "feelslike": 14.4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 14.8,
+                    "feelslike": 14.8,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 15.3,
+                    "feelslike": 15.3,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 15.6,
+                    "feelslike": 15.6,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 14.7,
+                    "feelslike": 14.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 13.9,
+                    "feelslike": 13.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 13.1,
+                    "feelslike": 13.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 12.7,
+                    "feelslike": 12.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 12.4,
+                    "feelslike": 12.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-18",
+            "tempmax": 18.8,
+            "tempmin": 10.8,
+            "temp": 14.6,
+            "feelslike": 14.6,
+            "uvindex": 6,
+            "sunriseEpoch": 1766013260,
+            "sunsetEpoch": 1766050523,
+            "conditions": "Rain, Partially cloudy",
+            "description": "Partly cloudy throughout the day with a chance of rain.",
+            "icon": "rain",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 11.9,
+                    "feelslike": 11.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 11.7,
+                    "feelslike": 11.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 11.5,
+                    "feelslike": 11.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 11.2,
+                    "feelslike": 11.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 11,
+                    "feelslike": 11,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 10.8,
+                    "feelslike": 10.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 10.8,
+                    "feelslike": 10.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 10.8,
+                    "feelslike": 10.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 10.8,
+                    "feelslike": 10.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 12.4,
+                    "feelslike": 12.4,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 13.9,
+                    "feelslike": 13.9,
+                    "uvindex": 2,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 15.6,
+                    "feelslike": 15.6,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 16.6,
+                    "feelslike": 16.6,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 17.7,
+                    "feelslike": 17.7,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 18.8,
+                    "feelslike": 18.8,
+                    "uvindex": 6,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 18.6,
+                    "feelslike": 18.6,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 18.4,
+                    "feelslike": 18.4,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 18.3,
+                    "feelslike": 18.3,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 17.7,
+                    "feelslike": 17.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 17.1,
+                    "feelslike": 17.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 16.6,
+                    "feelslike": 16.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 16.2,
+                    "feelslike": 16.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 15.8,
+                    "feelslike": 15.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 15.4,
+                    "feelslike": 15.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-19",
+            "tempmax": 20.4,
+            "tempmin": 14.2,
+            "temp": 16.8,
+            "feelslike": 16.8,
+            "uvindex": 5,
+            "sunriseEpoch": 1766099694,
+            "sunsetEpoch": 1766136949,
+            "conditions": "Partially cloudy",
+            "description": "Partly cloudy throughout the day.",
+            "icon": "partly-cloudy-day",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 14.7,
+                    "feelslike": 14.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 14.4,
+                    "feelslike": 14.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 14.2,
+                    "feelslike": 14.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 14.9,
+                    "feelslike": 14.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 15.6,
+                    "feelslike": 15.6,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 16.3,
+                    "feelslike": 16.3,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 17.5,
+                    "feelslike": 17.5,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 18.8,
+                    "feelslike": 18.8,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 20.1,
+                    "feelslike": 20.1,
+                    "uvindex": 5,
+                    "pm2p5": null,
+                    "conditions": "Clear",
+                    "icon": "clear-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 20.2,
+                    "feelslike": 20.2,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 20.3,
+                    "feelslike": 20.3,
+                    "uvindex": 4,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-day",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 20.4,
+                    "feelslike": 20.4,
+                    "uvindex": 3,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 19.7,
+                    "feelslike": 19.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 19.1,
+                    "feelslike": 19.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 18.5,
+                    "feelslike": 18.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 17.8,
+                    "feelslike": 17.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 17.2,
+                    "feelslike": 17.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 16.6,
+                    "feelslike": 16.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                }
+            ]
+        },
+        {
+            "datetime": "2025-12-20",
+            "tempmax": 15.8,
+            "tempmin": 9.4,
+            "temp": 12,
+            "feelslike": 11.6,
+            "uvindex": 1,
+            "sunriseEpoch": 1766186126,
+            "sunsetEpoch": 1766223376,
+            "conditions": "Rain, Overcast",
+            "description": "Cloudy skies throughout the day with a chance of rain.",
+            "icon": "rain",
+            "source": "fcst",
+            "pm2p5": null,
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 15.8,
+                    "feelslike": 15.8,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 15,
+                    "feelslike": 15,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 14.3,
+                    "feelslike": 14.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Partially cloudy",
+                    "icon": "partly-cloudy-night",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 13.7,
+                    "feelslike": 13.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 13.1,
+                    "feelslike": 13.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 12.6,
+                    "feelslike": 12.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 12.4,
+                    "feelslike": 12.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Partially cloudy",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 12.1,
+                    "feelslike": 12.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Rain, Overcast",
+                    "icon": "rain",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 12.3,
+                    "feelslike": 12.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 12.4,
+                    "feelslike": 12.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 12.2,
+                    "feelslike": 12.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 12,
+                    "feelslike": 12,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 11.9,
+                    "feelslike": 11.9,
+                    "uvindex": 1,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 11.6,
+                    "feelslike": 11.6,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 11.3,
+                    "feelslike": 11.3,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 11,
+                    "feelslike": 11,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 10.7,
+                    "feelslike": 10.7,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 10.4,
+                    "feelslike": 10.4,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 10.2,
+                    "feelslike": 10.2,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 9.9,
+                    "feelslike": 6.9,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 9.6,
+                    "feelslike": 6.5,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 9.4,
+                    "feelslike": 6.1,
+                    "uvindex": 0,
+                    "pm2p5": null,
+                    "conditions": "Overcast",
+                    "icon": "cloudy",
+                    "source": "fcst"
+                }
+            ]
+        }
+    ],
+    "alerts": [],
+    "currentConditions": {
+        "datetime": "13:00:00",
+        "temp": 15,
+        "feelslike": 15,
+        "uvindex": 0,
+        "pm2p5": 203,
+        "conditions": "Clear",
+        "icon": "clear-day",
+        "source": "obs",
+        "sunriseEpoch": 1764975989,
+        "sunsetEpoch": 1765013521
+    }
+}
