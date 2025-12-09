@@ -6,16 +6,22 @@
     <title>Webpack Template</title>
   </head>
   <body>
-    <form action="" method="get">
-      <div class="form-row">
-        <label for="location">ur location:</label>
-        <select name="location" id="location">
-          <option value="changsha">Changsha</option>
-          <option value="shanghai">Shanghai</option>
-          <option value="Paris">Paris</option>
-        </select>
-      </div>
-      <button id="btn" type="button">get weather</button>
-    </form>
+    <div class="query">
+      <form action="" method="get">
+        <div class="form-row">
+          <label for="location">ur location:</label>
+          <select name="location" id="location">
+            <option value="changsha">Changsha</option>
+            <option value="shanghai">Shanghai</option>
+            <option value="Paris">Paris</option>
+          </select>
+        </div>
+        <button id="btn" type="button">get weather</button>
+      </form>
+    </div>
+    <div class="container">
+      <div class="overview"></div>
+      <div class="breif"></div>
+    </div>
   </body>
 </html>

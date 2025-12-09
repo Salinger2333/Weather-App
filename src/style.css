@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #FFFFFF;
+}
+.query {
+  padding: 5px;
+  padding-top: 10px;
+}
+.query form {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.breif{
+  padding: 5px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(150px,1fr));
+  gap: 1rem;
+}
+
+.breif_component {
+  padding: 5px;
+  border: 2px solid #1F2428;
+  border-radius: 10px;
+
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  grid-template-rows: 1fr 1.5fr;
+  grid-template-areas: "date . "
+                        "icon temp";
+}
+.breif_date{
+  grid-area: date;
+}
+.breif_icon{
+  grid-area: icon;
+}
+.breif_temperture{
+  grid-area: temp;
+}
